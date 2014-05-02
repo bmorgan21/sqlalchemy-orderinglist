@@ -9,7 +9,5 @@ setup(
     url='https://github.com/bmorgan21/sqlalchemy-orderinglist',
     description='Allow for adding constants on ordered relationships.',
     install_requires=[
-    ],
-    dependency_links=[
     ]
 )
